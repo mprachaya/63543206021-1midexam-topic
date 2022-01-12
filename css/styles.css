@@ -1,0 +1,35 @@
+.leftside{
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: left;
+}
+.row{
+    margin-top: 20px;
+}
+.topmargin-10{
+    margin-top: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 600px;
+  }
+  
+  tr{
+    border-bottom: 1px solid black;
+    height: 50px;
+  }
+  th{
+      width: 200px;
+  }
+  .text-center{
+    text-align: center;
+  }
+.Endmargin{
+    margin-bottom: 200px;
+}
+.leftmargin{
+    margin-left: 10px;
+}
+.widthinput{
+    width: 600px;
+}
